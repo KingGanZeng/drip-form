@@ -39,5 +39,5 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@4.1.7
         with:
           branch: test/github-pate
-          folder: build
+          folder: website/build
 
