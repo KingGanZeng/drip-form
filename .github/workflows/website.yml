@@ -35,8 +35,9 @@ jobs:
           npm install
           npm run build
 
-      - name: Deploy to GitHub Pages
+      - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.7
         with:
-	  branch: test/github-page
-	  folder: build
+          branch: test/github-pate
+          folder: build
+
